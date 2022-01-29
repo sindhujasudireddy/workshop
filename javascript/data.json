@@ -1,0 +1,21 @@
+{
+    "profile":[{
+        "img":"female4.jpg",
+        "name":"CIET",
+        "branch":"it",
+         "year":"2 year"
+
+    },
+    {
+        "img":"female2.png",
+        "name":"CIET",
+        "branch":"cse",
+         "year":"3 year"
+    },
+ {
+    "img":"female4.jpg",
+    "name":"CIET",
+    "branch":"ece",
+     "year":"6 year"
+ }]
+ }
